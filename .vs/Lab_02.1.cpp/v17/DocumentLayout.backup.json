@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Student\\Lab_02.1.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB0CC0F-7E0B-4341-97E6-9AFD74F25996}|Lab_02.1.cpp.vcxproj|C:\\Users\\User\\Student\\Lab_02.1.cpp\\Lab02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEB0CC0F-7E0B-4341-97E6-9AFD74F25996}|Lab_02.1.cpp.vcxproj|solutionrelative:Lab02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab02.1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Student\\Lab_02.1.cpp\\Lab02.1.cpp",
+              "RelativeDocumentMoniker": "Lab02.1.cpp",
+              "ToolTip": "C:\\Users\\User\\Student\\Lab_02.1.cpp\\Lab02.1.cpp",
+              "RelativeToolTip": "Lab02.1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T04:52:24.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
